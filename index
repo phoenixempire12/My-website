@@ -1,0 +1,11 @@
+phoenix-empire/
+│
+├── index.html       <-- Main website file
+├── css/
+│   └── style.css    <-- CSS file
+└── images/
+    ├── hero.jpg
+    ├── airpods-case.jpg
+    ├── power-bank.jpg
+    ├── perfume1.jpg
+    └── perfume2.jpg
